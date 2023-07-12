@@ -1,8 +1,8 @@
-# zanminkian.github.io
+# 我的技术博客(My Tech Blog)
 
-这个仓库存放我的**个人博客**的源码。
+[Issues](https://github.com/zanminkian/zanminkian.github.io/issues?q=is%3Aissue+is%3Aclosed) 区存放我的博文。
 
-It's the source code of my **personal blog**.
+My blog posts are stored in the [Issues](https://github.com/zanminkian/zanminkian.github.io/issues?q=is%3Aissue+is%3Aclosed).
 
 ## Website
 
